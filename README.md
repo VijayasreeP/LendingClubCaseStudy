@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Lending club is the largest online loan marketplace facilitating personal loans, 
+business loans and financing of medical procedures. It provides lucrative interesting rates through online interface
+The objective of this analysis is to identify driving factors behind loan default, i.e the variables that are indicators for the default based on the historical loan data. Understand the patterns for the loan defaulters. The company can utilize this analysis for deciding which borrowers potentially has the tendency to default the loan and do the right risk analysis before disbursement of the loan
 
 
 ## Table of Contents
